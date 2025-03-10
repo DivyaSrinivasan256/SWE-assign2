@@ -28,7 +28,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     "*",
-    "mr-swe1-app-clean-env.eba-fchi82fz.us-east-1.elasticbeanstalk.com",
+    "fortravis-env.eba-zxhjtzqq.us-east-1.elasticbeanstalk.com",
     "localhost",
     "127.0.0.1",
 ]
