@@ -12,7 +12,7 @@ after_success:
 -  coveralls --service=travis-pro
 deploy:
   provider: elasticbeanstalk
-  region: us-west-2
+  region: us-east-1
   access_key_id: "$AWS_ACCESS_KEY_ID"
   secret_access_key: "$AWS_SECRET_ACCESS_KEY"
   app: fortravis
