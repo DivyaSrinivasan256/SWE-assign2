@@ -17,7 +17,7 @@ deploy:
   secret_access_key: "$AWS_SECRET_ACCESS_KEY"
   app: fortravis
   env: fortravis-env
-  bucket_name: elasticbeanstalk-us-west-2-664418984463
+  bucket_name: elasticbeanstalk-us-east-1-664418984463
   on:
     branch: main
 env:
